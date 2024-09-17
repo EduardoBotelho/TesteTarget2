@@ -1,4 +1,5 @@
-# TesteTarget2
+# TesteTarget
+#Descrição Teste
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
@@ -31,3 +32,5 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
+
+# Foi utilizada linguagem Python para responder aos testes.
